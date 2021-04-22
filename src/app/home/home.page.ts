@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import {Camera, CameraResultType, CameraSource} from '@capacitor/core';
+import {Camera, CameraResultType, CameraSource} from '@capacitor/camera';
 
 @Component({
   selector: 'app-home',
